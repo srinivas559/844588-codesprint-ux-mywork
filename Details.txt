@@ -1,0 +1,12 @@
+My associate id:844588
+Other team members:
+844514,844535,844536,844539.
+Team Lead:844588
+My Role in Team:
+1.Form Appointment  using UX
+2.Validation
+3.JSON SERVER
+------------------------------------------
+My Development files:
+1.applyform component
+2.localstorage using json server
